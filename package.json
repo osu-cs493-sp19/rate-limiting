@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/osu-cs493-sp19/rate-limiting#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "redis": "^2.8.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
